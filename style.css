@@ -1,0 +1,9 @@
+.head { color: green; text-align: center;}
+.tab_name {color: green; font-size: larger;}
+.table_head { border: 1px solid black; 
+    width: 100%; 
+    border-collapse: collapse;}
+th { border: 1px solid black;}
+tr { border: 1px solid black;}
+td { border: 1px solid black;}
+video { width: 560px; height: 315px; }
